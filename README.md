@@ -52,3 +52,6 @@ Automate the entire pipeline for real-time classification.
 
 # Acknowledgements
 This project was made possible by the contributions of the team and the availability of the shrimp quality dataset. Special thanks to mentors for their valuable guidance.
+
+## 📄 License
+This project is for academic and demonstration purposes only. Please credit the authors if reused or modified.
